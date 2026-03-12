@@ -1,0 +1,15 @@
+name: "Light Sync Studio"
+slug: "light_sync_studio"
+version: "1.0.0"
+description: "Create light shows in sync with audio and video"
+ingress: true
+ingress_port: 8099
+homeassistant_api: true
+panel_icon: mdi:cards-playing-heart-multiple-outline
+hassio_role: manager
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
