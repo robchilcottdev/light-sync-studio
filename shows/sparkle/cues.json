@@ -1,0 +1,23 @@
+{
+  "tracks": [
+    {
+      "id": "t1",
+      "label": "Front left",
+      "entityId": null, 
+      "cues": [
+        { "id": "cue-001", "time": 0, "duration": 0.5, "color": "#ff38ca" },
+        { "id": "cue-002", "time": 1.0, "duration": 1, "color": "#44ff00" }
+      ]
+    },
+    {
+      "id": "t2",
+      "label": "Front right",
+      "entityId": null,
+      "cues": [
+        { "id": "cue-003", "time": 0.5, "duration": 1, "color": "#44ff00" },
+        { "id": "cue-004", "time": 1.5, "duration": 0.5, "color": "#ff38ca" }
+
+      ]
+    }
+  ]
+}

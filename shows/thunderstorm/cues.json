@@ -1,0 +1,21 @@
+{
+  "tracks": [
+    {
+      "id": "t1",
+      "label": "Ceiling Flashes",
+      "entityId": null, 
+      "cues": [
+        { "id": "cue-001", "time": 2.5, "duration": 0.5, "color": "#ffffff" },
+        { "id": "cue-002", "time": 5.2, "duration": 0.8, "color": "#ffffff" }
+      ]
+    },
+    {
+      "id": "t2",
+      "label": "Ambient Low",
+      "entityId": null,
+      "cues": [
+        { "id": "cue-003", "time": 0.0, "duration": 10.0, "color": "#202050" }
+      ]
+    }
+  ]
+}

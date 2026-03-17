@@ -1,0 +1,10 @@
+{
+  "name": "Thunderstorm",
+  "author": "RobC",
+  "audioFile": "thunderstorm.wav",
+  "description": "A dark, atmospheric storm with rolling thunder and flashes.",
+  "tracks": [
+    { "id": "t1", "label": "Ceiling Flashes" },
+    { "id": "t2", "label": "Ambient Low" }
+  ]
+}

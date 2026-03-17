@@ -1,0 +1,10 @@
+{
+  "name": "Sparkle",
+  "author": "RobC",
+  "audioFile": "sparkle.wav",
+  "description": "A sparkly sound with sparkly lights.",
+  "tracks": [
+    { "id": "t1", "label": "Left side" },
+    { "id": "t2", "label": "Right side" }
+  ]
+}

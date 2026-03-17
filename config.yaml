@@ -5,7 +5,7 @@ description: "Create light shows in sync with audio and video"
 ingress: true
 ingress_port: 8099
 homeassistant_api: true
-panel_icon: mdi:cards-playing-heart-multiple-outline
+panel_icon: mdi:waveform
 hassio_role: manager
 arch:
   - aarch64
